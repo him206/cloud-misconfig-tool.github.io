@@ -1,0 +1,3 @@
+boto3
+streamlit
+Pillow  # For handling images like screenshots (optional but useful)

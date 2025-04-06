@@ -13,7 +13,7 @@ A Python-based tool that scans your AWS cloud infrastructure for common misconfi
 
 ---
 
-                    (Screenshot2.png)
+![Dashboard Preview](Screenshot2.png)
 
 ## 🛠️ Features
 

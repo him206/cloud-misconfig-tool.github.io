@@ -20,7 +20,6 @@ A Python-based tool that scans your AWS cloud infrastructure for common misconfi
 - Scans AWS for S3 and EC2 firewall misconfigurations
 - Visual dashboard with scan metrics
 - Dark theme UI using Streamlit
-- One-click remediation for public S3 buckets
 - Lightweight and fast
 
 ## 📦 Requirements
